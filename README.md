@@ -1,4 +1,5 @@
 **Smart Patient Health Monitor**
+
 An IoT-enabled health monitoring system that streams simulated patient vitals over a wireless network, detects anomalies in real-time, and visualizes the data on a live clinical dashboard.
 ##  Features & Syllabus Alignment
 * **Wireless Communication:** Uses the MQTT protocol (HiveMQ Cloud Broker) to simulate a wearable IoT device transmitting data over a network.
